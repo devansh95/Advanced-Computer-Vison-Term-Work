@@ -29,3 +29,5 @@ Term work and projects done for the subject advanced computer vision
 * WGAN-GP
 
 * Cycle GAN
+
+* Fast AI lr finder (Presentation)
